@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  background-color: #faf8f0;
+  color: #052e16;
+}
+
+.font-mono-fig {
+  font-family: 'JetBrains Mono', monospace;
+}
